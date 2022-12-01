@@ -1,4 +1,13 @@
-### Hi there 👋, Welcome to My Github Profile
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshanky-ced%2Fshanky-ced&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+
+### Hi there 👋, Welcome to My Github Arena
+
+<hr>
+<h3> Wanna Talk? Connect me Here <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75">
+</h3>
+<a href="https://www.linkedin.com/in/shashankrai01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Shashankrai11"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 
 <h2 align="center"> 🏆 My Github Profile Trophies</h2>
 
