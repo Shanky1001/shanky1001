@@ -26,5 +26,5 @@
 
 <h2 align="center"> 📈 Contribution Graph </h2>
 <a href="https://github.com/shanky-ced/shanky-ced">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shanky-ced" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shanky-ced&theme=github-compact" />
 </a>
