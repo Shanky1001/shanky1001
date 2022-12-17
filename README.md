@@ -1,6 +1,6 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshanky-ced%2Fshanky-ced&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 
-### Hi there 👋, Welcome to My Github Arena
+### Hi there 👋, Welcome to My Github Profile
 
 <hr>
 <h3> Wanna Talk? Connect me Here <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75">
