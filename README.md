@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/shashankrai01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Shashankrai11"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-
 <h2 align="center"> 🏆 My Github Profile Trophies</h2>
 
 <div align="center">
@@ -18,7 +17,7 @@
 </div>
 
 <h2 align="center"> 📓 My Github Stats </h2>
-<div display="flex" align="center" justify="between">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanky-ced&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-ced" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanky-ced&show_icons=true&theme=dark&hide_border=true&count_private=true" />
@@ -28,3 +27,8 @@
 <a href="https://github.com/shanky-ced/shanky-ced">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shanky-ced&theme=github-compact" />
 </a>
+<br>
+<div align="center">
+  <h3>Language and Tools</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb,ts,git,github,vscode" />
+</div>
