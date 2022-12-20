@@ -29,7 +29,7 @@
 
 <hr>
 <h3 align="center"> 📓 My Github Stats </h3>
-<div>
+<div align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanky-ced&theme=dracula" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-ced&langs_count=3&theme=radical" alt="Top languanges" />
   <img src="https://streak-stats.demolab.com/?user=shanky-ced&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D" />
