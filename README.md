@@ -18,7 +18,7 @@
 </div>
 
 <hr>
-<h3 align="center"> 🏆 My Github Profile Trophies</h3>
+<h3 align="center"> 🏆 Github Profile Trophies</h3>
 
 <div align="center">
 <a href="https://github.com/shanky-ced">
@@ -27,7 +27,7 @@
 </div>
 
 <hr>
-<h3 align="center"> 📓 My Github Stats </h3>
+<h3 align="center"> 📓 Github Stats </h3>
 <div align="center">
   <img width="800px" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanky-ced&theme=dracula" />
   <div>
