@@ -31,11 +31,17 @@
 <div align="center">
   <img width="800px" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanky-ced&theme=dracula" />
   <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-ced&langs_count=4&theme=radical" alt="Top languanges" />
   <img src="https://streak-stats.demolab.com/?user=shanky-ced&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </div>
 </div>
 
+<div align="center">
+<a href="https://github.com/jstrieb/github-stats" >
+  <img src="https://github.com/shanky-ced/Github_Stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/shanky-ced/Github_Stats/blob/master/generated/languages.svg" />
+</a>
+</div>
+ 
 <hr>
 <h3 align="center"> 📈 Contribution Graph </h3>
 <a href="https://github.com/shanky-ced/shanky-ced">
