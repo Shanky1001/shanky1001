@@ -33,7 +33,7 @@
 </div>
   
   <div>
-  <img align="left" alt="Rohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shanky-ced&show_icons=true&hide_border=true&include_all_commits2021=true" />
+  <img align="left" alt="Shashank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shanky-ced&show_icons=true&hide_border=true&include_all_commits2021=true" />
   <img align="right" src="https://streak-stats.demolab.com/?user=shanky-ced&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </div>
 </div>
