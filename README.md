@@ -43,8 +43,6 @@
 </a>
 </div>
  
-<hr>
-<h3 align="center"> 📈 Contribution Graph </h3>
 <a href="https://github.com/shanky-ced/shanky-ced">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shanky-ced&theme=github-compact" />
 </a>
