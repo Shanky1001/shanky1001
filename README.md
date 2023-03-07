@@ -28,9 +28,7 @@
 
 <hr>
 <h3 align="center"> 📓 Github Stats </h3>
-  <div align="center">
-<img width="800px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanky-ced&theme=dracula" />
-</div>
+  
   
   <div>
   <img align="left" alt="Shashank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shanky-ced&show_icons=true&hide_border=true&include_all_commits2021=true" />
