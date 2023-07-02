@@ -36,15 +36,13 @@
   </div>
 </div>
 
-<div align="center">
-<a href="https://github.com/jstrieb/github-stats" >
-  <img src="https://github.com/shanky-ced/Github_Stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/shanky-ced/Github_Stats/blob/master/generated/languages.svg" />
-</a>
+<div align="left">
+<!-- <a href="https://github.com/jstrieb/github-stats" > -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-ced&size_weight=0.5&count_weight=0.5" />
+<!-- </a> -->
 </div>
- 
 <a href="https://github.com/shanky-ced/shanky-ced">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shanky-ced&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanky-ced&bg_color=121212&color=14b2d2&line=52b754&point=f5f5f5&area=true&hide_border=true" alt="contribution-graph" />
 </a>
 <br>
 
