@@ -13,7 +13,7 @@
 <div align="center">
   <h3>Language and Tools</h3>
 <a href="https://github.com/shanky-ced">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,expressjs,mongodb,sass,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,expressjs,mongodb,sass,git,github,vscode" />
   </a>
 </div>
 
