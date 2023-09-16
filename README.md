@@ -28,13 +28,15 @@
 
 <hr>
 <h3 align="center"> 📓 Github Stats </h3>
+<div align="center"> 
   
 <a href="https://github.com/shanky1001/shanky1001">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shanky1001" />
 </a>
 <a href="https://github.com/shanky1001/shanky1001">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanky1001&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanky1001&layout=compact&langs_count=8&card_width=250" />
 </a>
+</div> 
 
 <div align="center"> 
 <a  href="https://github.com/shanky1001/shanky1001">
