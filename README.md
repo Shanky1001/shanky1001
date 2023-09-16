@@ -13,7 +13,7 @@
 <div align="center">
   <h3>Language and Tools</h3>
 <a href="https://github.com/shanky1001">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,expressjs,mongodb,sass,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,webpack,mui,firebase,nodejs,mongodb,sass,git,github,vscode" />
   </a>
 </div>
 
@@ -22,26 +22,27 @@
 
 <div align="center">
 <a href="https://github.com/shanky1001">
-<img src="https://github-profile-trophy.vercel.app/?username=shanky1001&count_private=true&include_all_commits=true&theme=dracula&margin-w=20&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=shanky1001&count_private=true&include_all_commits=true&theme=flat&margin-w=20&no-frame=true&column=-1" />
 </a>
 </div>
 
 <hr>
 <h3 align="center"> 📓 Github Stats </h3>
   
-  
-  <div>
-  <img align="left" alt="Shashank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shanky1001&show_icons=true&hide_border=true&include_all_commits2021=true" />
-  <img align="right" src="https://streak-stats.demolab.com/?user=shanky1001&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D" />
-  </div>
+<a href="https://github.com/shanky1001/shanky1001">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shanky1001" />
+</a>
+<a href="https://github.com/shanky1001/shanky1001">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanky1001&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<div align="center"> 
+<a  href="https://github.com/shanky1001/shanky1001">
+  <img  src="https://streak-stats.demolab.com/?user=shanky1001&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+</a>
 </div>
 
-<div align="left">
-<!-- <a href="https://github.com/jstrieb/github-stats" > -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanky1001&size_weight=0.5&count_weight=0.5" />
-<!-- </a> -->
-</div>
-<a href="https://github.com/shanky-ced/shanky1001">
+<a href="https://github.com/shanky1001/shanky1001">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanky1001&bg_color=121212&color=14b2d2&line=52b754&point=f5f5f5&area=true&hide_border=true" alt="contribution-graph" />
 </a>
 <br>
